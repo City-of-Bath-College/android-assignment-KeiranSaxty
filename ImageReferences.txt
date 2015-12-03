@@ -1,0 +1,38 @@
+NOTE: Because none of the images used in the application are 
+explicitly stated in the code, all of the references for the 
+images used are contained in this document.
+
+IMAGES PATH: \TrueOrFalse\app\src\main\res\drawable\
+
+
+icon.png - http://www.clipartbest.com/cliparts/KTn/7zn/KTn7znLTq.jpeg
+
+australia.jpg - http://www.hdwallpapersnews.com/wp-content/uploads/2015/02/Australian-Flag-1920x1080-HD-Wallpaper.jpg
+
+brazil.png - http://www.worldatlas.com/webimage/flags/countrys/zzzflags/brlarge.gif
+
+china.png - https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People's_Republic_of_China.svg/1024px-Flag_of_the_People's_Republic_of_China.svg.png
+
+czech.png - https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Flag_of_the_Czech_Republic.svg/2000px-Flag_of_the_Czech_Republic.svg.png
+
+eritrea.png - https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Flag_of_Eritrea.svg/1280px-Flag_of_Eritrea.svg.png
+
+finland.png - https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Finland.svg/2000px-Flag_of_Finland.svg.png
+
+guatemala.png - https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Flag_of_Guatemala.svg/2000px-Flag_of_Guatemala.svg.png
+
+japan.png - https://studentaffairs.duke.edu/sites/default/files/u110/Japan-flag-wallpaper-12.gif
+
+laos.png - https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Flag_of_Laos.svg/2000px-Flag_of_Laos.svg.png
+
+lithuania.png - https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Flag_of_Lithuania.svg/1280px-Flag_of_Lithuania.svg.png
+
+mexico.png - http://www.freelargeimages.com/wp-content/uploads/2014/12/Mexico_flag-2.jpg
+
+netherlands.png - https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/2000px-Flag_of_the_Netherlands.svg.png
+
+nigeria.png - https://upload.wikimedia.org/wikipedia/commons/7/79/Flag_of_Nigeria.svg
+
+russia.png - https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Flag_of_Russia_(1991-1993).svg/2000px-Flag_of_Russia_(1991-1993).svg.png
+
+usa.png - https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/US_flag_48_stars.svg/220px-US_flag_48_stars.svg.png

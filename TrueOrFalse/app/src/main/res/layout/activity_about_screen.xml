@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    tools:context="keiransaxty.trueorfalse.QuestionScreen"
+    android:background="#E8EAF6">
+
+    <TextView
+        android:id="@+id/aboutTitleLbl"
+        android:text="About this app"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="40sp"
+        android:gravity="center"
+        android:layout_marginTop="20dp" />
+
+    <TextView
+        android:id="@+id/aboutOverviewLbl"
+        android:text="True Or False is a quiz game where the player answers true or false questions on specific topics."
+        android:layout_width="300dp"
+        android:layout_height="wrap_content"
+        android:textSize="20sp"
+        android:gravity="left"
+        android:layout_marginTop="40dp"
+        android:layout_centerHorizontal="true"
+        android:layout_below="@+id/aboutTitleLbl"/>
+
+    <TextView
+        android:id="@+id/aboutMessageLbl"
+        android:text="Made by Keiran Saxty (2015)"
+        android:layout_width="300dp"
+        android:layout_height="wrap_content"
+        android:textSize="20sp"
+        android:gravity="left"
+        android:layout_marginTop="40dp"
+        android:layout_centerHorizontal="true"
+        android:layout_below="@+id/aboutOverviewLbl"/>
+
+    <TextView
+        android:id="@+id/aboutMessageLbl2"
+        android:text="For educational purposes only."
+        android:layout_width="300dp"
+        android:layout_height="wrap_content"
+        android:textSize="20sp"
+        android:gravity="left"
+        android:layout_marginTop="40dp"
+        android:layout_centerHorizontal="true"
+        android:layout_below="@+id/aboutMessageLbl"/>
+
+    <TextView
+        android:id="@+id/aboutMessageLbl3"
+        android:text="Source code available at:
+
+https://github.com/KeiranSaxty/TrueOrFalse"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="20sp"
+        android:gravity="center"
+        android:layout_marginTop="60dp"
+
+        android:layout_below="@+id/aboutMessageLbl2"/>
+
+
+
+
+</RelativeLayout>

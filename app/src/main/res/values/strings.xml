@@ -1,8 +1,0 @@
-<resources>
-    <string name="app_name">TrueOrFalse</string>
-    <string name="action_settings">Settings</string>
-    <string name="title_activity_end_game_screen">EndGameScreen</string>
-    <string name="title_activity_menu_screen">MenuScreen</string>
-    <string name="title_activity_leaderboard_screen">LeaderboardScreen</string>
-    <string name="title_activity_row_highscore">RowHighscore</string>
-</resources>
